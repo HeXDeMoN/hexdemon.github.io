@@ -1,0 +1,2 @@
+# hexdemon.github.io
+*.xcuserstate
