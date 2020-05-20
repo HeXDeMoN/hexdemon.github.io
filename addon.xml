@@ -40,8 +40,8 @@
 
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">[B][COLOR red]Venom[/COLOR][/B] - We do not host any of the contents streamed</summary>
-		<description lang="en">[B][COLOR red]Venom[/COLOR][/B] - This addon does not form part of the Kodi Media Centre. Please do not seek assistance with this addon from any of the Official Kodi Support Channels.The author does not host any of the content in this addon and takes no responsibility for content found.</description>
+		<summary lang="en">[B][COLOR red]HeXDeMoN[/COLOR][/B] - Nothing is hosted, only providing links to other repos</summary>
+		<description lang="en">[B][COLOR red]HeXDeMoN[/COLOR][/B] - This addon does not form part of the Kodi Media Centre. Please do not seek assistance with this addon from any of the Official Kodi Support Channels.The author does not host any of the content in this addon and takes no responsibility for content found.</description>
 		<disclaimer lang="en">The author is not responsible for the use of this addon. The author is not responsible for the content found using this addon. The author does not host or own any content found within this addon. The author is in no way affiliated with Kodi, Team Kodi, or the XBMC Foundation. This is a Non-profit resource, organized solely for educational purposes which is protected under the Fair-Use doctrine of the Copyright Act, Specifically section 107, which does promote freedom of expression, by permitting the unlicensed use of copyright-protected works.</disclaimer>
 		<platform>all</platform>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
@@ -50,9 +50,8 @@
 			<fanart>fanart.jpg</fanart>
 		</assets>
 		<news>
-[B][COLOR red]Update - v1.7 - April 1, 2020[/COLOR][/B]
-[COLOR yellow]--[/COLOR][I] Added gujal-resolveURL to repo since he's taking over
-    for jsergio.[/I]
+[B][COLOR red]Update - v1.0 [/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] Created Repo[/I]
 		</news>
 	</extension>
 </addon>
