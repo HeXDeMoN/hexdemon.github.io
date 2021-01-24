@@ -4,7 +4,7 @@ $file = (Get-ChildItem .\latestaddons.xml)
 $hash = (Get-FileHash -Path $file.FullName -Algorithm MD5).hash
 Set-Content -Path ($file.FullName + '.md5') -Value $hash -Force
 
-<# Kodi doesnt like compress-archive find alternative
+<# Kodi doesnt like compress-archive find alternative #
 $DirToCompress=".\repository.hexdemon"
 $TempDir = "$env:TEMP\repository.hexdemon"
 $ZipFile=".\repository.hexdemon\repository.hexdemon-$($version).zip"
