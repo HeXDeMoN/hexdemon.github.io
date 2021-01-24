@@ -3,7 +3,7 @@
     <extension point="xbmc.addon.repository" name="HeXDeMoN Repo">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/HeXDeMoN/hexdemon.github.io/master/update/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/HeXDeMoN/hexdemon.github.io/master/update/addons.xml.md5</checksum>
+            <checksum>https://raw.githubusercontent.com/HeXDeMoN/hexdemon.github.io/master/update/addons.md5</checksum>
             <datadir zip="true">https://raw.githubusercontent.com/HeXDeMoN/hexdemon.github.io/master/zips/</datadir>
         </dir>
     </extension>
