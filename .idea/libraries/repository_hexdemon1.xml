@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="repository.hexdemon1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/repository.hexdemon/repository.hexdemon-1.0.zip!/" />
+      <root url="jar://$PROJECT_DIR$/repository.hexdemon/repository.hexdemon-1.1.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
